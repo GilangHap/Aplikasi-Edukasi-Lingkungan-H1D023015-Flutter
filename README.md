@@ -1,3 +1,8 @@
+
+https://github.com/user-attachments/assets/dcc538b7-3822-4905-b2f0-f972370b86c6
+Uploading Recording 2025-11-05 145740.mp4…
+
+
 Aplikasi Edukasi Lingkungan sederhana dibuat dengan Flutter + GetX.
 
 Deskripsi singkat
